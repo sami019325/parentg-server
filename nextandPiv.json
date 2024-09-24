@@ -1,0 +1,66 @@
+[
+    {
+        "type": "YouTube",
+        "logoSrc": "ddd.com",
+        "text": "",
+        "dataID": [
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "CuqxByiYG_0"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "j_RFXkUe7y0"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "SaTkorLH1lo"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "I6qBCeue7bA"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "8MeAQj2yRlA"
+            }
+        ]
+    },
+    {
+        "type": "Tiktok",
+        "logoSrc": "ddd.com",
+        "text": "",
+        "dataID": [
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "NRvgIKsKasA"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "9Fcnzm_JhnQ"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "GLHKSXKyYCY"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "9Fcnzm_JhnQ"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "NRvgIKsKasA"
+            }
+        ]
+    }
+]
